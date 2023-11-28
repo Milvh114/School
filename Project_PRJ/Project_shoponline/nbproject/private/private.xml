@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/entity/Account.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/loadControl.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/updateControl.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/deleteControl.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/cartControl.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/categoryControl.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/loginControl.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/addControl.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/web/login.jsp</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/web/home.jsp</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/web/cart.jsp</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/web/detail.jsp</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/web/menu.jsp</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/searchControl.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/entity/Category.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/entity/Product.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/web/updateProduct.jsp</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/dao/Dao.java</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/web/managerProduct.jsp</file>
+            <file>file:/Users/milvh/Documents/Project_PRJ/Project_shoponline/src/java/control/homeControl.java</file>
+        </group>
+    </open-files>
+</project-private>
