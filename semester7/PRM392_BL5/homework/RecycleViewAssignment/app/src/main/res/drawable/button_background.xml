@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    &lt;!&ndash; Trạng thái nút khi được nhấn &ndash;&gt;-->
+<!--    <item android:state_pressed="true" android:drawable="#571AC3" />-->
+<!--    &lt;!&ndash; Trạng thái nút không khả dụng &ndash;&gt;-->
+<!--    <item android:state_enabled="false" android:drawable="#BD2C34" />-->
+<!--    &lt;!&ndash; Trạng thái mặc định &ndash;&gt;-->
+<!--    <item android:drawable="#BD2C34" />-->
+<!--    <item android:backgroundTint="#BD2C34" />-->
+</selector>
